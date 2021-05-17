@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanmay-mazumdar
-- 👀 I’m interested in Reactjs, d3, tailwindcss, and gardening.
-- 🌱 I’m currently learning UI design, blender, typescript, and web components.
+- 👀 I’m interested in Reactjs, d3, tailwindcss, PolymerJS, LitElements and gardening.
+- 🌱 I’m currently learning UI design, blender, typescript, and web components(Polymer, LitElement).
 
 <!---
 - 💞️ I’m looking to collaborate on ...
